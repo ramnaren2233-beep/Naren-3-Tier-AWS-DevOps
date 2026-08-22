@@ -18,19 +18,19 @@ State	                Available
 
 Six subnets were created and distributed across two Availability Zones.
 
-    Subnet	          Type	          Subnet ID	                  CIDR	             Availability Zone
+    Subnet	            Type	          Subnet ID	                    CIDR	                      Availability Zone
 
-Naren Web Subnet 1	Public -A    subnet-07bbbd0d216953858	     10.0.1.0/24         aps1-az1 (ap-south-1a)
+Naren Web Subnet 1	  Public -A     subnet-07bbbd0d216953858	     10.0.1.0/24               aps1-az1 (ap-south-1a)
 
-Naren Web Subnet 2	Public -B	   subnet-044b47da2d36ccf88 	   10.0.2.0/24         aps1-az1 (ap-south-1a)
+Naren Web Subnet 2	  Public -B	    subnet-044b47da2d36ccf88 	     10.0.2.0/24               aps1-az1 (ap-south-1a)
 
-Naren App Subnet 1	Private	-A   subnet-0bb4dc4133e76a9c1      10.0.3.0/24         aps1-az1 (ap-south-1a)
+Naren App Subnet 1	  Private-A     subnet-0bb4dc4133e76a9c1         10.0.3.0/24               aps1-az1 (ap-south-1a)
 
-Naren App Subnet 2	Private	-B   subnet-08e7db9cea295b3a4      10.0.4.0/24         aps1-az3 (ap-south-1b)
+Naren App Subnet 2	  Private-B     subnet-08e7db9cea295b3a4         10.0.4.0/24               aps1-az3 (ap-south-1b)
 
-Naren DB Subnet  1	Private	-A   subnet-0dad776d0eb5fb9c6      10.0.5.0/24         aps1-az1 (ap-south-1a)
+Naren DB Subnet  1	  Private-A      subnet-0dad776d0eb5fb9c6        10.0.5.0/24               aps1-az1 (ap-south-1a)
 
-Naren DB Subnet  2	Private -B	 subnet-03ebc86567f72a083      10.0.6.0/24         aps1-az3 (ap-south-1b)
+Naren DB Subnet  2	  Private -B	 subnet-03ebc86567f72a083        1.0.0.6.0/24               aps1-az3 (ap-south-1b)
 
 Each subnet was configured to support the required number of IP addresses.
 
@@ -39,15 +39,15 @@ Each subnet was configured to support the required number of IP addresses.
 
 An Internet Gateway was created and attached to the VPC.
 
-  Resource	                         Details
+  Resource	                             Details
 
-Internet Gateway Name	             Naren-3Tier-IGW
+Internet Gateway Name	              Naren-3Tier-IGW
 
-Internet Gateway ID	               igw-0aa4cc29a3e54fefc
+Internet Gateway ID	                 igw-0aa4cc29a3e54fefc
 
-VPC ID	                           vpc-02ee6cb19b7fe6387 | Naren-3Tier-VPC
+VPC ID	                            vpc-02ee6cb19b7fe6387 | Naren-3Tier-VPC
 
-State	                             Attached
+State	                                Attached
 
 
 4. # Elastic IP
