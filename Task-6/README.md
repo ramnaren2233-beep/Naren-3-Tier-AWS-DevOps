@@ -1,3 +1,5 @@
+# Task 6 – Configure the Internet-Facing Application Load Balancer
+
 | S.No | Task / Requirement                                  | Answer / Implementation                                                                                                          |
 | ---: | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 |    1 | Create an Internet-Facing Application Load Balancer | An **Internet-Facing Application Load Balancer (ALB)** was created to distribute incoming traffic to the Web Tier EC2 instances. |
