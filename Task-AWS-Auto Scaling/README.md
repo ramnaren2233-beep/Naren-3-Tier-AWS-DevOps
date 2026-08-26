@@ -22,35 +22,19 @@
 
 ### 1. EC2 Instance
 
-![EC2 Instance](screenshots/ec2-instance.png)
-
 ### 2. Launch Template
-
-![Launch Template](screenshots/launch-template.png)
 
 ### 3. Target Group – Healthy Targets
 
-![Target Group](screenshots/target-group.png)
-
 ### 4. Load Balancer
-
-![Load Balancer](screenshots/load-balancer.png)
 
 ### 5. Auto Scaling Group
 
-![Auto Scaling Group](screenshots/auto-scaling-group.png)
-
 ### 6. Auto Scaling Group – Instances
-
-![ASG Instances](screenshots/asg-instances.png)
 
 ### 7. Scaling Policy
 
-![Scaling Policy](screenshots/scaling-policy.png)
-
 ### 8. Application Test
-
-![Application Test](screenshots/application-test.png)
 
 ---
 
