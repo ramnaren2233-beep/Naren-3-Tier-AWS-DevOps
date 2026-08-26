@@ -60,4 +60,4 @@ Deploy the Presentation Layer using AWS EC2 instances in the Public Subnets.
 
 ## 6. Result
 
-The Web Tier / Presentation Layer was successfully deployed using AWS EC2 and Nginx.
+The Web Tier / Presentation Layer was successfully deployed using AWS EC2 and Nginx..
