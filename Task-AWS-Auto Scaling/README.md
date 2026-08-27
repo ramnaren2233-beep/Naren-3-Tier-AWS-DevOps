@@ -24,17 +24,15 @@
 
 ### 2. Launch Template
 
-### 3. Target Group – Healthy Targets
+### 3. Load Balancer
 
-### 4. Load Balancer
+### 4. Auto Scaling Group
 
-### 5. Auto Scaling Group
+### 5. Auto Scaling Group – Instances
 
-### 6. Auto Scaling Group – Instances
+### 6. Scaling Policy
 
-### 7. Scaling Policy
-
-### 8. Application Test
+### 7. Application Test
 
 ---
 
