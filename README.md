@@ -9,37 +9,37 @@ AWS Three-Tier Architecture DevOps Project
 ## 📑 Task Documentation
 
 ### 🔹 Task 1
-[📖 Task 1 Documentation](./Task-01/README.md)
+[📖 Open Task 1 Documentation](./Task-01/)
 
 ### 🔹 Task 2 – Web Tier
-[📖 Task 2 Documentation](./Task-2-web-tier/README.md)
+[📖 Open Task 2 Documentation](./Task-2-web-tier/)
 
 ### 🔹 Task 3
-[📖 Task 3 Documentation](./Task-3/README.md)
+[📖 Open Task 3 Documentation](./Task-3/)
 
 ### 🔹 Task 4
-[📖 Task 4 Documentation](./Task-4/README.md)
+[📖 Open Task 4 Documentation](./Task-4/)
 
 ### 🔹 Task 5
-[📖 Task 5 Documentation](./Task-5/README.md)
+[📖 Open Task 5 Documentation](./Task-5/)
 
 ### 🔹 Task 6
-[📖 Task 6 Documentation](./Task-6/README.md)
+[📖 Open Task 6 Documentation](./Task-6/)
 
 ### 🔹 Task 7
-[📖 Task 7 Documentation](./Task-7/README.md)
+[📖 Open Task 7 Documentation](./Task-7/)
 
 ### 🔹 Task 8
-[📖 Task 8 Documentation](./Task-8/README.md)
+[📖 Open Task 8 Documentation](./Task-8/)
 
 ### 🔹 Task 9
-[📖 Task 9 Documentation](./Task-9/README.md)
+[📖 Open Task 9 Documentation](./Task-9/)
 
 ### 🔹 Task 10
-[📖 Task 10 Documentation](./Z-Task-10/README.md)
+[📖 Open Task 10 Documentation](./Z-Task-10/)
 
 ### 🔹 Task 11 – AWS Auto Scaling
-[📖 Task 11 Documentation](./Task-AWS-Auto%20Scaling/README.md)
+[📖 Open Task 11 Documentation](./Task-AWS-Auto%20Scaling/)
 
 ---
 
@@ -56,13 +56,13 @@ This project demonstrates the implementation of a three-tier architecture on AWS
 ### AWS Services
 
 - Amazon VPC
-- EC2
+- Amazon EC2
 - IAM
-- S3
-- RDS
+- Amazon S3
+- Amazon RDS
 - Application Load Balancer
 - Auto Scaling
-- CloudWatch
+- Amazon CloudWatch
 - Route 53
 - Security Groups
 
@@ -72,7 +72,7 @@ This project demonstrates the implementation of a three-tier architecture on AWS
 
 **Task 1 → Task 2 → Task 3 → Task 4 → Task 5 → Task 6 → Task 7 → Task 8 → Task 9 → Task 10 → Task 11**
 
-Each task contains its own documentation, configuration details, screenshots, and implementation steps.
+Click any task above to open its documentation folder.
 
 ---
 
